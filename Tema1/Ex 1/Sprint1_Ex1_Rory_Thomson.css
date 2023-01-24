@@ -11,48 +11,48 @@ body {
     max-width: 1200px;
     background-color: white;
 } 
-.top-box-black{
+.Box1{
     width: 100%;
     background-color: black;
     padding: 1.5rem;
     
 }
-.top-top-box-grey {
+.Subbox1-1 {
     background-color: #2d4059;
     display: flex;
     padding: 1.5rem;
 
 }
-.top-top-fill-left {
+.Fill1-1-1 {
     width: 20%;
     height: 1.5rem;
     background-color: #ea5455;
     margin-right: 1.5rem;
 }
-.top-top-fill-mid {
+.Fill1-1-2 {
     width: 80%;
     height: 1.5rem;
     background-color: #ea5455;
     margin-right: 1.5rem;
 }
-.top-top-fill-right {
+.Fill1-1-3 {
     width: 20%;
     height: 1.5rem;
     background-color: #ea5455;
 }
-.top-btm-box-orange {
+.Subbox1-2 {
     margin-left: auto;
     margin-right: auto;
     margin-top: 0.75rem;
     background-color: #f07b3f;
     padding: 1.5rem;
 }
-.top-btm-fill {
+.Fill1-2-1 {
     width: 100%;
     height: 1.5rem;
     background-color: #fed460;
 }
-.mid-box-black {
+.Box2 {
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
     display: flex;
@@ -60,75 +60,77 @@ body {
     background-color: black;
     padding: 1.5rem;
 }
-.mid-left-box-grey {
+.Subbox2-1 {
     width: 70%;
     display: block;
     background-color: #4e4e6a;
     margin-right: 1.5rem;
     padding: 1.5rem;
 }
-.mid-left-group-top {
+.Group2-1-1 {
     display: flex;
 }
-.mid-left-top-fill-left {
+.Fill2-1-1 {
     flex-wrap: wrap;
     width: 50%;
     height: 1.5rem;
     background-color: #1f6cb0;
 }
-.mid-left-top-fill-right {
+.Fill2-1-2 {
     flex-wrap: wrap;
     width: 50%;
     height: 1.5rem;
     background-color: #1f6cb0;
     margin-left: 1.5rem;
 }
-.mid-left-group-mid {
+.Group2-1-2 {
     display: flex;
 }
-.mid-left-mid-fill-left {
+.Fill2-1-3 {
+    flex-wrap: wrap;
+    width: 50%;
+    height: 1.5rem;
+    background-color: #1f6cb0;
+    margin-top: 1.5rem;
+    margin-right: 1.5rem;
+}
+.Fill2-1-4 {
+    flex-wrap: wrap;
     width: 50%;
     height: 1.5rem;
     background-color: #1f6cb0;
     margin-top: 1.5rem;
 }
-.mid-left-mid-fill-right {
-    width: 50%;
-    height: 1.5rem;
-    background-color: #1f6cb0;
-    margin-left: 1.5rem;
-    margin-top: 1.5rem;
-}
-.mid-left-fill-bottom {
+.Fill2-1-5 {
     width: 100%;
     height: 1.5rem;
     background-color: #70a3c4;
     margin-top: 1.5rem;
 }
-.mid-right-box-orange {
+.Subbox2-2 {
     width: 30%;
     display: block;
     background-color: #f73f52;
     padding: 1.5rem;
 }
-.mid-right-fill-top {
+.Fill2-2-1 {
     width: 100%;
     height: 1.5rem;
     background-color: #feea85;
-    margin-bottom: 1.5rem;
+    margin-bottom: 0.75rem;
 }
-.mid-right-fill-btm {
+.Fill2-2-2 {
     width: 100%;
     height: 1.5rem;
     background-color: #feea85;
 } 
-.bottom-box-black {
+.Box3 {
     width: 100%;
     background-color: black;
     padding: 1.5rem;
     
 }
-.bottom-fill {
+.Fill3-1 {
     height: 1.5rem;
     width: 100%;
     background-color: #e6af2e; 
